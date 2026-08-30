@@ -1,0 +1,17 @@
+body {
+    font-family: Georgia, serif;
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 40px;
+    background: #f4efe6;
+    color: #2d2926;
+}
+
+h1 {
+    font-size: 48px;
+}
+
+p {
+    font-size: 20px;
+    line-height: 1.6;
+}
